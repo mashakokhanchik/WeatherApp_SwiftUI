@@ -7,4 +7,4 @@
 ![Simulator Screen Recording - iPhone 14 Pro - 2022-10-02 at 17 17 26](https://user-images.githubusercontent.com/74599946/193458833-0641fd10-129d-4850-87c7-ad8532ffaa6e.gif)
 
 
-* В дальнейше планирую пперевесли приложение на API с использованием этого же UI
+* В дальнейше планирую перевести приложение на API с использованием этого же UI
